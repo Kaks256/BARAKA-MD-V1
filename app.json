@@ -75,14 +75,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr baraka"
+    "value": "blackhammer"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255762190568,255679513639,254710772666"
+    "value": "256743391566"
   },
     "WARN_COUNT":
   {

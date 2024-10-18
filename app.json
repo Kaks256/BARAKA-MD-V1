@@ -19,7 +19,7 @@
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. false for no",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_READ": {
@@ -39,7 +39,7 @@
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_BLOCK": {
